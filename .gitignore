@@ -9,3 +9,9 @@ wheels/
 # Virtual environments
 .venv
 .env
+.DS_Store
+
+# models 
+models/intent_classifier/models
+models/LoRA/models
+models/Extractive_QA/models
