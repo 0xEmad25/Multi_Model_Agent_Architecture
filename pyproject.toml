@@ -14,4 +14,6 @@ dependencies = [
     "accelerate>=1.1.0",
     "peft>=0.21.0",
     "trl>=1.13.0",
+    "langchain-core>=1.6.3",
+    "langgraph>=1.2.11",
 ]
